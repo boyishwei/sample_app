@@ -3,6 +3,8 @@ SampleApp::Application.routes.draw do
 
   get "pages/check"
 
+  get "static_pages/home"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
